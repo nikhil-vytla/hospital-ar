@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 09b04456898a6234cb61e1ba6790fe4e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NewSquirrel:CARVR_SquirrelBones
+    100004: NewSquirrel:CARVR_SquirrelModel
+    100006: NewSquirrel:Global_Con
+    100008: NewSquirrel:Head_Con
+    100010: NewSquirrel:L_Arm_Con
+    100012: NewSquirrel:L_Arm_Ik
+    100014: NewSquirrel:L_Elbow_Jnt
+    100016: NewSquirrel:L_Foot_Jnt
+    100018: NewSquirrel:L_Hand_Jnt
+    100020: NewSquirrel:L_Hip_Jnt
+    100022: NewSquirrel:L_Knee_Jnt
+    100024: NewSquirrel:L_Leg_Con
+    100026: NewSquirrel:L_Leg_Ik
+    100028: NewSquirrel:L_Shoulder_Jnt
+    100030: NewSquirrel:Neck_Jnt
+    100032: NewSquirrel:Nose_Jnt
+    100034: NewSquirrel:R_Arm_Con
+    100036: NewSquirrel:R_Arm_Ik
+    100038: NewSquirrel:R_Elbow_Jnt
+    100040: NewSquirrel:R_Foot_Jnt
+    100042: NewSquirrel:R_Hand_Jnt
+    100044: NewSquirrel:R_Hip_Jnt
+    100046: NewSquirrel:R_Knee_Jnt
+    100048: NewSquirrel:R_Leg_Con
+    100050: NewSquirrel:R_Leg_Ik
+    100052: NewSquirrel:R_Shoulder_Jnt
+    100054: NewSquirrel:Root_Con
+    100056: NewSquirrel:Root_Jnt
+    100058: NewSquirrel:Spine_Con1
+    100060: NewSquirrel:Spine_Con2
+    100062: NewSquirrel:Spine_con3
+    100064: NewSquirrel:Spine_Jnt1
+    100066: NewSquirrel:Spine_Jnt2
+    100068: NewSquirrel:Spine_Jnt3
+    100070: NewSquirrel:Tail_Con1
+    100072: NewSquirrel:Tail_Con2
+    100074: NewSquirrel:Tail_Con3
+    100076: NewSquirrel:Tail_Jnt1
+    100078: NewSquirrel:Tail_Jnt2
+    100080: NewSquirrel:Tail_Jnt3
+    100082: NewSquirrel:Tail_Jnt4
+    400000: //RootNode
+    400002: NewSquirrel:CARVR_SquirrelBones
+    400004: NewSquirrel:CARVR_SquirrelModel
+    400006: NewSquirrel:Global_Con
+    400008: NewSquirrel:Head_Con
+    400010: NewSquirrel:L_Arm_Con
+    400012: NewSquirrel:L_Arm_Ik
+    400014: NewSquirrel:L_Elbow_Jnt
+    400016: NewSquirrel:L_Foot_Jnt
+    400018: NewSquirrel:L_Hand_Jnt
+    400020: NewSquirrel:L_Hip_Jnt
+    400022: NewSquirrel:L_Knee_Jnt
+    400024: NewSquirrel:L_Leg_Con
+    400026: NewSquirrel:L_Leg_Ik
+    400028: NewSquirrel:L_Shoulder_Jnt
+    400030: NewSquirrel:Neck_Jnt
+    400032: NewSquirrel:Nose_Jnt
+    400034: NewSquirrel:R_Arm_Con
+    400036: NewSquirrel:R_Arm_Ik
+    400038: NewSquirrel:R_Elbow_Jnt
+    400040: NewSquirrel:R_Foot_Jnt
+    400042: NewSquirrel:R_Hand_Jnt
+    400044: NewSquirrel:R_Hip_Jnt
+    400046: NewSquirrel:R_Knee_Jnt
+    400048: NewSquirrel:R_Leg_Con
+    400050: NewSquirrel:R_Leg_Ik
+    400052: NewSquirrel:R_Shoulder_Jnt
+    400054: NewSquirrel:Root_Con
+    400056: NewSquirrel:Root_Jnt
+    400058: NewSquirrel:Spine_Con1
+    400060: NewSquirrel:Spine_Con2
+    400062: NewSquirrel:Spine_con3
+    400064: NewSquirrel:Spine_Jnt1
+    400066: NewSquirrel:Spine_Jnt2
+    400068: NewSquirrel:Spine_Jnt3
+    400070: NewSquirrel:Tail_Con1
+    400072: NewSquirrel:Tail_Con2
+    400074: NewSquirrel:Tail_Con3
+    400076: NewSquirrel:Tail_Jnt1
+    400078: NewSquirrel:Tail_Jnt2
+    400080: NewSquirrel:Tail_Jnt3
+    400082: NewSquirrel:Tail_Jnt4
+    2100000: NewSquirrel_lambert6
+    4300000: NewSquirrel:CARVR_SquirrelModel
+    7400000: CARVR_Squirrel_Idle
+    7400002: CARVR_Squirrel_Eat
+    7400004: CARVR_Squirrel_Jump
+    9500000: //RootNode
+    13700000: NewSquirrel:CARVR_SquirrelModel
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
